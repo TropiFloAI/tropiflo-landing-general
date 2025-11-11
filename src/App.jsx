@@ -57,10 +57,10 @@ function App() {
         <h1>Unlock insights.<br />Discover connections.</h1>
         <p className="secondary-text-2">
           Transform how you explore knowledge.<br />
-          Let AI guide your research journey.
+          Let Tropiflo scale your research.
         </p>
         <p className="tertiary-text">
-          <Link to="/blog" className="link-button">blog</Link>{' '}
+          <a href="https://medium.com/@oz.kilim/the-buzz-on-wall-street-how-a-fruit-fly-outsmarted-the-market-4a2a2bd28c7e" target="_blank" rel="noopener noreferrer" className="link-button">blog</a>{' '}
           <a href="mailto:info@adgecy.io?subject=Careers Inquiry" className="link-button">careers</a>{' '}
           <a href="mailto:Sales@adgecy.io?subject=Corporate Inquiry" className="link-button">corporate</a>
         </p>
